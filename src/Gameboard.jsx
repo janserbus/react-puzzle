@@ -30,7 +30,7 @@ function Gameboard() {
       
       setPuzzle(data.puzzle);
     });         
-  });
+  }, []);
 
 
   const images = puzzle.map((image, index) => <Image state={image} />)

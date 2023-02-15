@@ -1,6 +1,5 @@
 .gameboard{
-    background-color: var(--gameboard-background);
-    height: calc(100vh - var(--setup-height));
+    background-color: var(--gameboard-background);    
     display: grid;    
 }
 
