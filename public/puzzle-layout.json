@@ -4,143 +4,143 @@
     "puzzle":[
         {
             "url": "/img/img_001.jpg",
-            "origin-x": 1,
-            "origin-y": 1,
-            "curent-x": 2,
-            "curent-y": 2            
+            "originX": 1,
+            "originY": 1,
+            "curentX": 2,
+            "curentY": 2            
         },
         {
             "url": "/img/img_002.jpg",
-            "origin-x": 2,
-            "origin-y": 1,
-            "curent-x": 2,
-            "curent-y": 2            
+            "originX": 2,
+            "originY": 1,
+            "curentX": 2,
+            "curentY": 2            
         },
         {
             "url": "/img/img_003.jpg",
-            "origin-x": 3,
-            "origin-y": 1,
-            "curent-x": 2,
-            "curent-y": 2            
+            "originX": 3,
+            "originY": 1,
+            "curentX": 2,
+            "curentY": 2            
         },
         {
             "url": "/img/img_004.jpg",
-            "origin-x": 4,
-            "origin-y": 1,
-            "curent-x": 2,
-            "curent-y": 2            
+            "originX": 4,
+            "originY": 1,
+            "curentX": 2,
+            "curentY": 2            
         },
         {
             "url": "/img/img_005.jpg",
-            "origin-x": 5,
-            "origin-y": 1,
-            "curent-x": 2,
-            "curent-y": 2            
+            "originX": 5,
+            "originY": 1,
+            "curentX": 2,
+            "curentY": 2            
         },
         {
             "url": "/img/img_006.jpg",
-            "origin-x": 1,
-            "origin-y": 2,
-            "curent-x": 2,
-            "curent-y": 2            
+            "originX": 1,
+            "originY": 2,
+            "curentX": 2,
+            "curentY": 2            
         },
         {
             "url": "/img/img_007.jpg",
-            "origin-x": 2,
-            "origin-y": 2,
-            "curent-x": 2,
-            "curent-y": 2            
+            "originX": 2,
+            "originY": 2,
+            "curentX": 2,
+            "curentY": 2            
         },
         {
             "url": "/img/img_008.jpg",
-            "origin-x": 3,
-            "origin-y": 2,
-            "curent-x": 2,
-            "curent-y": 2            
+            "originX": 3,
+            "originY": 2,
+            "curentX": 2,
+            "curentY": 2            
         },
         {
             "url": "/img/img_009.jpg",
-            "origin-x": 4,
-            "origin-y": 2,
-            "curent-x": 2,
-            "curent-y": 2            
+            "originX": 4,
+            "originY": 2,
+            "curentX": 2,
+            "curentY": 2            
         },
         {
             "url": "/img/img_010.jpg",
-            "origin-x": 5,
-            "origin-y": 2,
-            "curent-x": 2,
-            "curent-y": 2            
+            "originX": 5,
+            "originY": 2,
+            "curentX": 2,
+            "curentY": 2            
         },
         {
             "url": "/img/img_011.jpg",
-            "origin-x": 1,
-            "origin-y": 3,
-            "curent-x": 2,
-            "curent-y": 2            
+            "originX": 1,
+            "originY": 3,
+            "curentX": 2,
+            "curentY": 2            
         },
         {
             "url": "/img/img_012.jpg",
-            "origin-x": 2,
-            "origin-y": 3,
-            "curent-x": 2,
-            "curent-y": 2            
+            "originX": 2,
+            "originY": 3,
+            "curentX": 2,
+            "curentY": 2            
         },
         {
             "url": "/img/img_013.jpg",
-            "origin-x": 3,
-            "origin-y": 3,
-            "curent-x": 2,
-            "curent-y": 2            
+            "originX": 3,
+            "originY": 3,
+            "curentX": 2,
+            "curentY": 2            
         },
         {
             "url": "/img/img_014.jpg",
-            "origin-x": 4,
-            "origin-y": 3,
-            "curent-x": 2,
-            "curent-y": 2            
+            "originX": 4,
+            "originY": 3,
+            "curentX": 2,
+            "curentY": 2            
         },
         {
             "url": "/img/img_015.jpg",
-            "origin-x": 5,
-            "origin-y": 3,
-            "curent-x": 2,
-            "curent-y": 2            
+            "originX": 5,
+            "originY": 3,
+            "curentX": 2,
+            "curentY": 2            
         },
         {
             "url": "/img/img_016.jpg",
-            "origin-x": 1,
-            "origin-y": 4,
-            "curent-x": 2,
-            "curent-y": 2            
+            "originX": 1,
+            "originY": 4,
+            "curentX": 2,
+            "curentY": 2            
         },
         {
             "url": "/img/img_017.jpg",
-            "origin-x": 2,
-            "origin-y": 4,
-            "curent-x": 2,
-            "curent-y": 2            
+            "originX": 2,
+            "originY": 4,
+            "curentX": 2,
+            "curentY": 2            
         },
         {
             "url": "/img/img_018.jpg",
-            "origin-x": 3,
-            "origin-y": 4,
-            "curent-x": 2,
-            "curent-y": 2            
+            "originX": 3,
+            "originY": 4,
+            "curentX": 2,
+            "curentY": 2            
         },
         {
             "url": "/img/img_019.jpg",
-            "origin-x": 4,
-            "origin-y": 4,
-            "curent-x": 2,
-            "curent-y": 2            
+            "originX": 4,
+            "originY": 4,
+            "curentX": 2,
+            "curentY": 2            
         },
         {
             "url": "/img/img_020.jpg",
-            "origin-x": 5,
-            "origin-y": 4,
-            "curent-x": 2,
-            "curent-y": 2            
+            "originX": 5,
+            "originY": 4,
+            "curentX": 2,
+            "curentY": 2            
         }
     ]
         
