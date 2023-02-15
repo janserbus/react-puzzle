@@ -32,8 +32,17 @@ function Gameboard() {
     });         
   }, []);
 
+  const switchIt = (pieceFrom, pieceTo) => {
+    console.log(pieceFrom, pieceTo);
+    const pf = puzzle.find(e => e.originX === pieceFrom.originX && e.originY === pieceFrom.originY);
+    const pt = puzzle.find(e => e.originX === pieceTo.originX && e.originY === pieceTo.originY);
+    [pf.curentX, pt.curentX] = [pt.curentX, pf.curentX];
+    [pf.curentY, pt.curentY] = [pt.curentY, pf.curentY];
+    setPuzzle([...puzzle])
+    
+  }
 
-  const images = puzzle.map((image, index) => <Image state={image} />)
+  const images = puzzle.map((image, index) => <Image key={{index}} state={image} callbackSwitch={switchIt}/>)
 
   return (
     <section className="gameboard" style={{gridTemplateColumns: "repeat(" + columns +", 1fr)", gridTemplateRows: "repeat(" + rows + ", 1fr)"}}>

@@ -2,8 +2,7 @@ import "./Setup.css"
 
 function Setup() {
     return (
-      <section className="setup">
-        
+      <section className="setup">    
       </section>
     );
 };
