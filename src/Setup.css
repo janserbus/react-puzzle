@@ -1,0 +1,10 @@
+.setup{
+    height: var(--setup-height);
+    background-color: var(--setup-background);
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.setup__link{
+    display: block;
+}
