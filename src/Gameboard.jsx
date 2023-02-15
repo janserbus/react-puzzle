@@ -1,18 +1,32 @@
-import { useEffect } from "react";
+import { useEffect, useState } from "react";
 import "./Gameboard.css"
 import Image from './Image';
-export const Path = "https://raw.githubusercontent.com/TomasKazda/react-puzzle/main/public"
+export const Path = "https://raw.githubusercontent.com/janserbus/react-puzzle/master/public";
 
 function Gameboard() {
 
-  useEffect(() => {
-    const myRequest = new Request('/img/puzzle_layour.json');
+  const [rows, setRows] = useState(0);
+  const [columns, setColumns] = useState(0);
+  const [puzzle, setPuzzle] = useState([]);
 
-         
+  useEffect(() => {
+    fetch(Path + "/puzzle-layout.json")
+    .then(response => response.json())
+    .then(data =>{
+      console.log(data);
+      setColumns(data.columns);
+      setRows(data.rows);
+      setPuzzle(data.puzzle);
+    });         
   });
 
+
+  const images = puzzle.map((image, index) => <Image />)
+
   return (
-    <section className="gameboard"></section>
+    <section className="gameboard">
+      {images}
+    </section>
   );
 };
 
